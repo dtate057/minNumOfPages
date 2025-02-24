@@ -1,0 +1,15 @@
+/workspaces/minNumOfPages/minNumOfPages/bin/Debug/net8.0/minNumOfPages
+/workspaces/minNumOfPages/minNumOfPages/bin/Debug/net8.0/minNumOfPages.deps.json
+/workspaces/minNumOfPages/minNumOfPages/bin/Debug/net8.0/minNumOfPages.runtimeconfig.json
+/workspaces/minNumOfPages/minNumOfPages/bin/Debug/net8.0/minNumOfPages.dll
+/workspaces/minNumOfPages/minNumOfPages/bin/Debug/net8.0/minNumOfPages.pdb
+/workspaces/minNumOfPages/minNumOfPages/obj/Debug/net8.0/minNumOfPages.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/minNumOfPages/minNumOfPages/obj/Debug/net8.0/minNumOfPages.AssemblyInfoInputs.cache
+/workspaces/minNumOfPages/minNumOfPages/obj/Debug/net8.0/minNumOfPages.AssemblyInfo.cs
+/workspaces/minNumOfPages/minNumOfPages/obj/Debug/net8.0/minNumOfPages.csproj.CoreCompileInputs.cache
+/workspaces/minNumOfPages/minNumOfPages/obj/Debug/net8.0/minNumOfPages.sourcelink.json
+/workspaces/minNumOfPages/minNumOfPages/obj/Debug/net8.0/minNumOfPages.dll
+/workspaces/minNumOfPages/minNumOfPages/obj/Debug/net8.0/refint/minNumOfPages.dll
+/workspaces/minNumOfPages/minNumOfPages/obj/Debug/net8.0/minNumOfPages.pdb
+/workspaces/minNumOfPages/minNumOfPages/obj/Debug/net8.0/minNumOfPages.genruntimeconfig.cache
+/workspaces/minNumOfPages/minNumOfPages/obj/Debug/net8.0/ref/minNumOfPages.dll
